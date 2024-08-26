@@ -85,27 +85,8 @@ header {
   align-items: center;
 }
 
-header nav {
-  position: absolute;
-  right: 0px;
-  top: -40%;
-}
-
-header nav ul {
-  font-size: 20px;
-  width: 100%;
-  padding: 35px;
-  display: flex;
-}
-
-header nav ul li {
-  margin-left: 30px;
-  cursor: pointer;
-}
-
-header nav ul li a {
-  color: #000000;
-  text-decoration: none;
+.header-name a{
+  color: black;
 }
 
 /*メインビジュアル*/
