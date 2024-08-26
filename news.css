@@ -87,6 +87,7 @@ header {
 
 .header-name a{
   color: black;
+  font-weight: bold;
 }
 
 /*メインビジュアル*/
